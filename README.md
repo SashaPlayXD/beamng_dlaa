@@ -110,12 +110,3 @@ Edit the paths at the top of `build.bat` and run it. The result is `build\bng_dl
 
 Not affiliated with BeamNG GmbH or NVIDIA. Use at your own risk; do not use in multiplayer if a server forbids client modifications.
 
----
-
-## Кратко по-русски
-
-Неофициальный аддон, добавляющий **настоящий NVIDIA DLAA** в BeamNG.drive: пункт **DLAA (NVIDIA)** появляется в `Настройки → Графика → Сглаживание`.
-
-**Весь код написан ИИ Claude (Anthropic)** в чате. Владелец репозитория вёл проект, проводил все тесты в игре и собирал замеры. Технические вопросы — через Issues.
-
-Требования: BeamNG 0.39.4.0.20972 на DirectX 12, видеокарта NVIDIA RTX, ReShade 6.8.0 с поддержкой аддонов, `nvngx_dlss.dll` из официального SDK NVIDIA. Апскейла (Quality/Performance) нет: BeamNG не умеет рендерить сцену ниже разрешения окна.
