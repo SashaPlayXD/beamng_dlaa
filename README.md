@@ -1,3 +1,5 @@
+<img width="1280" height="719" alt="photo_2026-10-07_18-50-01" src="https://github.com/user-attachments/assets/a0067155-3f3d-4d40-8164-fad5a881a604" />
+<img width="1280" height="719" alt="photo_2026-10-07_18-49-55" src="https://github.com/user-attachments/assets/9ba89b96-af92-4487-9df2-faf439da4ddd" />
 [README.md](https://github.com/user-attachments/files/33164307/README.md)
 # bng_dlss — NVIDIA DLAA for BeamNG.drive
 
